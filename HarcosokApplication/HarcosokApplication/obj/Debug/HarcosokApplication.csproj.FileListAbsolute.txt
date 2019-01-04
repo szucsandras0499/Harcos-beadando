@@ -1,0 +1,28 @@
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.Cache
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+D:\PROGRAMMING\UNKNOWN\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojAssemblyReference.cache
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.cache
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CoreCompileInputs.cache
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CopyComplete
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+C:\Users\nándor\Desktop\Bandi Mappája!!!!\Szerda\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
